@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChamaDLL", "ChamaDLL\ChamaDLL.csproj", "{C160697C-9EC3-4E52-BB03-F99C8C7A2230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C160697C-9EC3-4E52-BB03-F99C8C7A2230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C160697C-9EC3-4E52-BB03-F99C8C7A2230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C160697C-9EC3-4E52-BB03-F99C8C7A2230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C160697C-9EC3-4E52-BB03-F99C8C7A2230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9479F2-D9E5-4AEA-840D-44EE0519A2CA}
+	EndGlobalSection
+EndGlobal

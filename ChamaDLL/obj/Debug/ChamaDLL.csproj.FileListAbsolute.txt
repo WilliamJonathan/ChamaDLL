@@ -1,0 +1,14 @@
+D:\projetos\csharp\ChamaDLL\ChamaDLL\bin\Debug\ChamaDLL.exe.config
+D:\projetos\csharp\ChamaDLL\ChamaDLL\bin\Debug\ChamaDLL.exe
+D:\projetos\csharp\ChamaDLL\ChamaDLL\bin\Debug\ChamaDLL.pdb
+D:\projetos\csharp\ChamaDLL\ChamaDLL\bin\Debug\DLLPropImagem.dll
+D:\projetos\csharp\ChamaDLL\ChamaDLL\bin\Debug\ExifLib.dll
+D:\projetos\csharp\ChamaDLL\ChamaDLL\bin\Debug\DLLPropImagem.pdb
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.csproj.AssemblyReference.cache
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.Form1.resources
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.Properties.Resources.resources
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.csproj.GenerateResource.cache
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.csproj.CoreCompileInputs.cache
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.csproj.CopyComplete
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.exe
+D:\projetos\csharp\ChamaDLL\ChamaDLL\obj\Debug\ChamaDLL.pdb
